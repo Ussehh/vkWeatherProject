@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Ясно"; ObjectID = "b6E-c0-KZe"; */
+"b6E-c0-KZe.normalTitle" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Гроза"; ObjectID = "5hq-Vc-WbO"; */
+"5hq-Vc-WbO.normalTitle" = "Thunderstorm";
+
+/* Class = "UIButton"; normalTitle = "Ветер"; ObjectID = "l6x-VT-5mk"; */
+"l6x-VT-5mk.normalTitle" = "Wind";
+
+/* Class = "UIButton"; normalTitle = "Туман"; ObjectID = "mAE-Ji-3hJ"; */
+"mAE-Ji-3hJ.normalTitle" = "Fog";
+
+/* Class = "UIButton"; normalTitle = "Радуга"; ObjectID = "YhM-VX-XFa"; */
+"YhM-VX-XFa.normalTitle" = "Rainbow";
+
+/* Class = "UIButton"; normalTitle = "Снег"; ObjectID = "9Gn-xW-Xzj"; */
+"9Gn-xW-Xzj.normalTitle" = "Snow";

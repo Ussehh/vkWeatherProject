@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SkyScapes
+
+  Created by Никита Абаев on 22.07.2024.
+  
+*/
+
+"button_title_clear" = "Clear";
+"button_title_thunderstorm" = "Thunderstorm";
+"button_title_wind" = "Wind";
+"button_title_fog" = "Fog";
+"button_title_rainbow" = "Rainbow";
+"button_title_snow" = "Snow";
